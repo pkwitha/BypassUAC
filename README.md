@@ -12,9 +12,14 @@ when the fodhelper.exe process is started, process monitor begins capturing the 
 * create HKCU:\Software\Classes\ms-settings\shell\open\command
 * set Reg Name : "" and Reg Value : "cmd /c start C:\\Windows\\System32\\cmd.exe"
 * set Reg Name : "DelegateExecute" and Reg Value : ""
+  
+![Untitled2](https://github.com/pkwitha/BypassUAC/assets/91279108/323f085c-1a76-46f6-a7d5-8bc2057f9b43)
 
-![Untitled](https://github.com/pkwitha/BypassUAC/assets/91279108/58c0449f-0da5-4ae8-a573-474b9c3aa98f)
+
+
+
 
 
 ### Finally, you can see the output when fodhelper.exe runs.
-![fodhelper](https://github.com/pkwitha/BypassUAC/assets/91279108/003a304b-5da9-452b-b8f4-b293fc17eb05)
+![Untitled](https://github.com/pkwitha/BypassUAC/assets/91279108/0922e417-971d-4214-ac74-ba370550b9b2)
+
